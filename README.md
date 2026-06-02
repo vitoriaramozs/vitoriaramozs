@@ -12,6 +12,15 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 
 ---
 
+## 📈 Objetivos
+
+* Desenvolver projetos cada vez mais completos.
+* Aprimorar conhecimentos em programação.
+* Contribuir para projetos open source.
+* Construir uma carreira sólida na área de tecnologia.
+
+---
+
 ## 📚 Atualmente aprendendo
 
 * 🐍 Python
@@ -45,15 +54,6 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 * ✔️ Desenvolvimento de Projetos de Software
 * ✔️ Aprendizagem Contínua
 * ✔️ Comunicação
-
----
-
-## 📈 Objetivos
-
-* Desenvolver projetos cada vez mais completos.
-* Aprimorar conhecimentos em programação.
-* Contribuir para projetos open source.
-* Construir uma carreira sólida na área de tecnologia.
 
 ---
 
