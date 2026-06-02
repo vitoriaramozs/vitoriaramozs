@@ -62,7 +62,6 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 
 📧 E-mail: [vitoria.c.o.ramoss@gmail.com]
 
-💼 LinkedIn: [link-do-linkedin]
 
 ---
 
