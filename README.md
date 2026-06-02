@@ -27,12 +27,12 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Linux](https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-1E1E1E?style=for-the-badge&logo=ubuntu&logoColor=E95420)
-![C++](https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Arduino](https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
+![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=social&logo=ubuntu)
+![C++](https://img.shields.io/badge/C++-00599C?style=social&logo=cplusplus)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=social&logo=arduino)
+![Git](https://img.shields.io/badge/Git-F05032?style=social&logo=git
 ---
 
 ## 🎯 Competências
