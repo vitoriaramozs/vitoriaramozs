@@ -1,10 +1,10 @@
-## Olá, eu sou Vitória
+# Olá, eu sou Vitória
 
  Estudante do curso Técnico em Desenvolvimento de Sistemas no SESI-SENAI de Cruzeiro/Lorena.
 
 ---
 
-# 🎓 Sobre mim
+## 🎓 Sobre mim
 
 Sou estudante de Desenvolvimento de Sistemas e estou construindo minha carreira na área de tecnologia. Tenho interesse em desenvolvimento de software, automação, sistemas embarcados e boas práticas de engenharia de software.
 
@@ -12,7 +12,7 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 
 ---
 
-# 📚 Atualmente aprendendo
+## 📚 Atualmente aprendendo
 
 * 🐍 Python
 * 🐧 Linux Ubuntu
@@ -25,7 +25,7 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
@@ -58,7 +58,7 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 📧 E-mail: [vitoria.c.o.ramoss@gmail.com]
 
@@ -66,5 +66,4 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 
 ---
 
-> "A tecnologia move o mundo, mas são as pessoas que fazem a diferença."
 
