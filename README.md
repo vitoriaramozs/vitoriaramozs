@@ -21,6 +21,16 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Linux](https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1E1E1E?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![C++](https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Arduino](https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
+---
+
 ## 📚 Atualmente aprendendo
 
 * 🐍 Python
@@ -32,16 +42,6 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 * 📊 Lógica de Programação
 * 🔧 Desenvolvimento de Sistemas
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Linux](https://img.shields.io/badge/Linux-1E1E1E?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-1E1E1E?style=for-the-badge&logo=ubuntu&logoColor=E95420)
-![C++](https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Arduino](https://img.shields.io/badge/Arduino-1E1E1E?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
 ---
 
 ## 🎯 Competências
