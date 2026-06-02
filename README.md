@@ -31,18 +31,6 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 ![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
 ---
 
-## 📚 Atualmente aprendendo
-
-* 🐍 Python
-* 🐧 Linux Ubuntu
-* ⚙️ Engenharia de Software
-* 🤖 Arduino
-* 💻 C++
-* 🖥️ Windows CMD
-* 📊 Lógica de Programação
-* 🔧 Desenvolvimento de Sistemas
-
----
 
 ## 🎯 Competências
 
