@@ -34,14 +34,14 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 
 ## 🎯 Competências
 
- ✔️ Autonomia
- ✔️ Gestão de Tempo
- ✔️ Trabalho em Equipe
- ✔️ Resolução de Problemas
- ✔️ Organização
- ✔️ Desenvolvimento de Projetos de Software
- ✔️ Aprendizagem Contínua
- ✔️ Comunicação
+* ✔️ Autonomia
+* ✔️ Gestão de Tempo
+* ✔️ Trabalho em Equipe
+* ✔️ Resolução de Problemas
+* ✔️ Organização
+* ✔️ Desenvolvimento de Projetos de Software
+* ✔️ Aprendizagem Contínua
+ *✔️ Comunicação
 
 ---
 
