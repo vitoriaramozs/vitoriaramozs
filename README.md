@@ -41,7 +41,7 @@ Atualmente busco aprimorar meus conhecimentos por meio de projetos práticos, es
 * ✔️ Organização
 * ✔️ Desenvolvimento de Projetos de Software
 * ✔️ Aprendizagem Contínua
- *✔️ Comunicação
+* ✔️ Comunicação
 
 ---
 
