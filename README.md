@@ -74,8 +74,10 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,php,python,cpp,mysql,arduino,linux,git,github,vscode&theme=light&perline=6">
-
+<img src="https://img.shields.io/badge/HTML-FFB6D9?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-FFB6D9?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-FFB6D9?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFB6D9?style=for-the-badge&logo=python&logoColor=white">
 <br><br>
 
 <table>
