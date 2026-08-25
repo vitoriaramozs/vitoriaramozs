@@ -4,16 +4,16 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=700&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Oii%2C+eu+sou+a+Maria!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Bem-vindo+ao+meu+cantinho!+%E2%99%A1;%F0%9F%92%BB+Estudante+de+Desenvolvimento+de+Sistemas;%F0%9F%8C%B8+Aprendendo%2C+criando+e+evoluindo" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=700&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Olá%2C+sou+a+Vitória!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Bem-vindo!+%E2%99%A1;%F0%9F%92%BB+Estudante+de+Desenvolvimento+de+Sistemas;" alt="Typing SVG">
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6D9&height=3&section=header" width="70%">
 
 <p>
-  ₊˚ʚ 💻 ɞ˚₊ <em>Estudante de Desenvolvimento de Sistemas</em><br>
-  ₊˚ʚ 🌸 ɞ˚₊ <em>apaixonada por tecnologia, animais e criatividade</em><br>
-  ₊˚ʚ ☁️ ɞ˚₊ <em>aprendendo um pouquinho a cada dia</em>
+  <em>Estudante de Desenvolvimento de Sistemas</em><br>
+  <em>Apaixonada por tecnologia</em><br> 
+  <em>Aprendendo cada vez mais</em>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1200&color=FF8DC7&center=true&vCenter=true&width=600&lines=%E2%9C%A7+programando+com+carinho+%E2%9C%A7;%E2%99%A1+um+commit+de+cada+vez+%E2%99%A1;%E2%8B%86+transformando+ideias+em+c%C3%B3digo+%E2%8B%86" alt="Typing SVG">
@@ -364,15 +364,15 @@
 
 <br>
 
-<a href="https://instagram.com/goncfermadu">
+<a href="https://instagram.com/ramozs.x">
 <img src="https://img.shields.io/badge/Instagram-FFB6D9?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:goncfermadu.senai@gmail.com">
+<a href="email:vitoria.c.o.ramoss@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFC4E1?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/goncfermadu">
+<a href="https://github.com/vitoriaramozs">
 <img src="https://img.shields.io/badge/GitHub-FF8DC7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -383,14 +383,6 @@
 <br><br>
 
 <p>
-૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp;
-<b>obrigada por visitar meu cantinho!</b>
-&nbsp; ૮₍ ˶ᵔ ᵕ ᔔ˶ ₎ა
-</p>
-
-<sub>♡ feito com código, flores, café e muitas estrelinhas ♡</sub>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=100&section=footer">
 
