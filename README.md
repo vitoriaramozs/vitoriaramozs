@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="rosa.jpg" width="100%" height="200px" style="object-fit: cover; display: block; border-radius: 15px;">
+<img src="flores.jpg" width="100%" height="220px" style="object-fit: cover; display: block; border-radius: 15px;">
 
 <br>
 
-<img src="[https://readme-typing-svg.demolab.com?](https://i.pinimg.com/1200x/be/91/08/be91085ea790bf2f501e57acd4f59f5b.jpg) font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=650&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Oii%2C+eu+sou+a+Vitória!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Seja+bem-vindo+ao+meu+perfil+%E2%99%A1;%E2%8B%86+Dev+em+constru%C3%A7%C3%A3o+%E2%8B%86" alt="Typing SVG">
+font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=650&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Oii%2C+eu+sou+a+Vitória!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Seja+bem-vindo+ao+meu+perfil+%E2%99%A1;%E2%8B%86+Dev+em+constru%C3%A7%C3%A3o+%E2%8B%86" alt="Typing SVG">
 
 <br>
 
