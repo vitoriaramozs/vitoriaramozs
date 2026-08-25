@@ -74,7 +74,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,php,python,cpp,mysql,arduino,linux,git,github,vscode&theme=light">
+<img src="https://skillicons.dev/icons?i=html,css,php,python,cpp,mysql,arduino,linux,git,github,vscode&theme=light&perline=6">
 
 <br><br>
 
