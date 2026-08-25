@@ -168,16 +168,7 @@
 
 <br>
 
-```text
-       ♡ MY PINK LEARNING CLOUD ♡
 
-       HTML       ████████░░
-       CSS        ██████░░░░
-       PHP        ████░░░░░░
-       SQL        ████░░░░░░
-
-       ✦ aprendendo... ✦
-```
 
 <br>
 
@@ -185,95 +176,6 @@
 
 <br>
 
-<sub>🌸 aprendendo um pouco mais todos os dias 🌸</sub>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 🌷₊˚⊹♡ Maria's Pink Café ♡⊹˚₊🌷
-
-<br>
-
-```text
-╭────────────────────────────────────╮
-│                                    │
-│       🎀  WELCOME  🎀              │
-│                                    │
-│       🌸 HTML                      │
-│       🧁 CSS                       │
-│       🍰 PHP                       │
-│       ☕ SQL                       │
-│                                    │
-│       ────────────────             │
-│                                    │
-│       today's special:             │
-│       ✦ learning something new ✦  │
-│                                    │
-╰────────────────────────────────────╯
-```
-
-<br>
-
-🌸 **HTML** — criando a estrutura
-🎀 **CSS** — deixando tudo mais bonito
-🐘 **PHP** — explorando o back-end
-🗄️ **SQL** — organizando dados
-
-<br>
-
-<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="110">
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 💗 ₊˚♡ minha jornada ♡˚₊ 💗
-
-<br>
-
-```text
-             🌸
-          🌸   🌸
-             ↓
-          aprender
-             ↓
-          praticar
-             ↓
-           criar
-             ↓
-          melhorar
-             ↓
-             ✦
-```
-
-<br>
-
-🌷 Explorando o mundo do desenvolvimento web
-☁️ Conhecendo novas tecnologias
-💻 Criando projetos para praticar
-🎀 Melhorando minha lógica de programação
-✨ Construindo uma base para projetos maiores
-
-<br>
-
-> 🌸 *Dream big, code bigger.* 🌸
-
-</div>
-
-<br>
-
----
-
-<div align="center">
 
 ## ୨୧₊˚♡ GitHub ♡˚₊୨୧
 
@@ -293,7 +195,7 @@
 
 <div align="center">
 
-## 🌸 ₊˚୨୧ meus objetivos ୨୧˚₊ 🌸
+## ୨୧ meus objetivos ୨୧
 
 <br>
 
