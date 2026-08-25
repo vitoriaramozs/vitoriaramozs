@@ -40,7 +40,7 @@
 
 <img src="https://media.tenor.com/4F7D8qY7qYAAAAAi/cute-cat.gif" width="105">
 
-<br><br>
+<br>
 
 ₊˚ʚ **Vitória, 16 anos** ɞ˚₊ <br><br>
 
@@ -62,20 +62,10 @@
 <img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="175">
 
 <br>
-
-```text
-       ₊˚ ☁️ ₊˚
-    ☁️    ♡    ☁️
-
+```
        /\___/\
       ( ˶•ᵕ•˶ )
        / づ♡づ
-
-    ✦ currently ✦
-
-    learning...
-    creating...
-    dreaming...
 ```
 
 <br>
