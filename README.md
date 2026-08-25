@@ -74,11 +74,24 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML-FFB6D9?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-FFB6D9?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-FFB6D9?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFB6D9?style=for-the-badge&logo=python&logoColor=white">
-<br><br>
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML-FFD6E8?style=for-the-badge&logo=html5&logoColor=FF5FA2">
+<img src="https://img.shields.io/badge/CSS-FFD6E8?style=for-the-badge&logo=css3&logoColor=FF5FA2">
+<img src="https://img.shields.io/badge/PHP-FFD6E8?style=for-the-badge&logo=php&logoColor=FF5FA2">
+<img src="https://img.shields.io/badge/Python-FFD6E8?style=for-the-badge&logo=python&logoColor=FF5FA2">
+<img src="https://img.shields.io/badge/C%2B%2B-FFD6E8?style=for-the-badge&logo=cplusplus&logoColor=FF5FA2">
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-FFC4E1?style=for-the-badge&logo=mysql&logoColor=FF5FA2">
+<img src="https://img.shields.io/badge/Arduino-FFC4E1?style=for-the-badge&logo=arduino&logoColor=FF5FA2">
+<img src="https://img.shields.io/badge/Linux-FFC4E1?style=for-the-badge&logo=linux&logoColor=FF5FA2">
+<img src="https://img.shields.io/badge/Git-FFC4E1?style=for-the-badge&logo=git&logoColor=FF5FA2">
+<img src="https://img.shields.io/badge/GitHub-FFC4E1?style=for-the-badge&logo=github&logoColor=FF5FA2">
+<img src="https://img.shields.io/badge/VS%20Code-FFC4E1?style=for-the-badge&logo=visualstudiocode&logoColor=FF5FA2">
+
+</div>
 
 <table>
 <tr>
