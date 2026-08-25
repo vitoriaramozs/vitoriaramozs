@@ -252,7 +252,7 @@
 
 <br>
 
-<sub>🎀 um passo de cada vez 🎀</sub>
+<sub>💗 <b>Life Goes On</b> 💗</sub>
 
 </div>
 
