@@ -16,7 +16,7 @@
   <em>Aprendendo cada vez mais</em>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1200&color=FF8DC7&center=true&vCenter=true&width=600&lines=%E2%9C%A7+programando+com+carinho+%E2%9C%A7;%E2%99%A1+um+commit+de+cada+vez+%E2%99%A1;%E2%8B%86+transformando+ideias+em+c%C3%B3digo+%E2%8B%86" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1200&color=FF8DC7&center=true&vCenter=true&width=600&lines=%E2%9C%A7+programando+com+carinho+%E2%9C%A7;%E2%99%A1" alt="Typing SVG">
 
 <br><br>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## ₊˚⊹♡ sobre mim ♡⊹˚₊
+## ⊹ sobre mim ⊹
 
 <table>
 <tr>
@@ -43,12 +43,7 @@
 
 <br><br>
 
-₊˚ʚ **17 anos** ɞ˚₊ <br>
-🌷 Apaixonada por animais <br>
-💻 Estudante de Desenvolvimento de Sistemas <br>
-🌸 Explorando o mundo da programação <br>
-🐾 Sempre aprendendo algo novo <br>
-✨ Criando projetos para praticar
+
 
 <br><br>
 
@@ -60,19 +55,7 @@
 
 <br><br>
 
-```text
-       ₊˚ ☁️ ₊˚
-    ☁️    ♡    ☁️
 
-       /\___/\
-      ( ˶•ᵕ•˶ )
-       / づ♡づ
-
-    ✦ coding in
-      pink clouds ✦
-```
-
-<sub>código, criatividade e muitos gatinhos ♡</sub>
 
 </td>
 
@@ -87,7 +70,7 @@
 
 <div align="center">
 
-## 🌸 ₊˚୨୧ tecnologias & ferramentas ୨୧˚₊ 🌸
+## tecnologias & ferramentas
 
 <br>
 
