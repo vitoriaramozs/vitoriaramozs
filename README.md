@@ -61,13 +61,22 @@
 
 <img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="175">
 
-<br>
-```
-       /\___/\ <br>
-      ( ˶•ᵕ•˶ ) <br>
+<br><br>
+
+       ₊˚ ☁️ ₊˚
+    ☁️    ♡    ☁️
+
+       /\___/\
+      ( ˶•ᵕ•˶ )
        / づ♡づ
 
-```
+    ✦ currently ✦
+
+    learning...
+    creating...
+    dreaming...
+
+<br>
 
 <br>
 
