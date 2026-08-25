@@ -4,19 +4,16 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=650&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Oii%2C+eu+sou+a+Maria!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Seja+bem-vindo+ao+meu+perfil+%E2%99%A1;%E2%8B%86+Dev+em+constru%C3%A7%C3%A3o+%E2%8B%86" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=650&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Olá%2C+sou+a+Vitória!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Seja+bem-vindo+ao+meu+perfil+%E2%99%A1;%E2%8B%86+Dev+em+constru%C3%A7%C3%A3o+%E2%8B%86" alt="Typing SVG">
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6D9&height=2&section=header" width="65%">
 
 <p>
-  ₊˚ʚ 💻 ɞ˚₊ <em>Estudante de Desenvolvimento de Sistemas</em><br>
-  ₊˚ʚ 🌷 ɞ˚₊ <em>aprendendo, criando e explorando a tecnologia</em><br>
-  ₊˚ʚ 🐾 ɞ˚₊ <em>apaixonada por animais e projetos criativos</em>
+ <em>Estudante de Desenvolvimento de Sistemas</em><br>
+ <em>aprendendo, criando e explorando a tecnologia</em><br>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1200&color=FF8DC7&center=true&vCenter=true&width=560&lines=%E2%9C%A7+aprendendo+um+passo+de+cada+vez+%E2%9C%A7;%E2%99%A1+transformando+ideias+em+c%C3%B3digo+%E2%99%A1;%E2%8B%86+meu+cantinho+de+experimentos+%E2%8B%86" alt="Typing SVG">
 
 <br><br>
 
@@ -173,16 +170,11 @@ dose de criatividade e muitos gatinhos ♡</sub>
 
 <br>
 
-<a href="https://instagram.com/goncfermadu">
-<img src="https://img.shields.io/badge/Instagram-FFB6D9?style=for-the-badge&logo=instagram&logoColor=white">
+
+<a href="email:vitoria.c.o.ramoss@gmail.com">
 </a>
 
-<a href="mailto:goncfermadu.senai@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFC4E1?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/goncfermadu">
-<img src="https://img.shields.io/badge/GitHub-FF8DC7?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/vitoriaramozs">
 </a>
 
 <br><br>
@@ -190,16 +182,6 @@ dose de criatividade e muitos gatinhos ♡</sub>
 <img src="https://media.tenor.com/WHp4fK8G6NAAAAAi/cat-kiss.gif" width="100">
 
 <br>
-
-<p>
-૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp;
-<b>obrigada por passar por aqui!</b>
-&nbsp; ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
-</p>
-
-<sub>♡ feito com código, criatividade e muitas estrelinhas ♡</sub>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=100&section=footer">
 
