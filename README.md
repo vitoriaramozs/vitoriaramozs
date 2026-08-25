@@ -31,7 +31,8 @@
 ---
 
 <div align="center">
-## ₊˚⊹♡ sobre mim ♡⊹˚₊ 
+  
+## ♡ sobre mim ♡
 
 <br><br>
 <table>
