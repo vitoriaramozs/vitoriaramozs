@@ -31,9 +31,6 @@
 ---
 
 <div align="center">
-
-<div align="center">
-
 ## ₊˚⊹♡ sobre mim ♡⊹˚₊
 
 <table>
@@ -64,7 +61,7 @@
 
 <img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="175">
 
-<br><br>
+<br>
 
 ```text
        ₊˚ ☁️ ₊˚
@@ -82,12 +79,6 @@
 ```
 
 <br>
-
-<sub>☁️ um commit de cada vez ☁️</sub>
-
-<br><br>
-
-<b>Life Goes On</b> ♡
 
 </td>
 
