@@ -1,23 +1,28 @@
 <div align="center">
 
-<img src="rosa.jpg" width="100%" height="200px" style="object-fit: cover; display: block; border-radius: 15px;">
+<img src="flores.jpg" width="100%" height="220px" style="object-fit: cover; display: block; border-radius: 15px;">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=650&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Olá%2C+sou+a+Vitória!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Seja+bem-vindo+ao+meu+perfil+%E2%99%A1;%E2%8B%86+Dev+em+constru%C3%A7%C3%A3o+%E2%8B%86" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=700&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Oii%2C+eu+sou+a+Maria!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Bem-vindo+ao+meu+cantinho!+%E2%99%A1;%F0%9F%92%BB+Estudante+de+Desenvolvimento+de+Sistemas;%F0%9F%8C%B8+Aprendendo%2C+criando+e+evoluindo" alt="Typing SVG">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6D9&height=2&section=header" width="65%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6D9&height=3&section=header" width="70%">
 
 <p>
- <em>Estudante de Desenvolvimento de Sistemas</em><br>
- <em>aprendendo, criando e explorando a tecnologia</em><br>
+  ₊˚ʚ 💻 ɞ˚₊ <em>Estudante de Desenvolvimento de Sistemas</em><br>
+  ₊˚ʚ 🌸 ɞ˚₊ <em>apaixonada por tecnologia, animais e criatividade</em><br>
+  ₊˚ʚ ☁️ ɞ˚₊ <em>aprendendo um pouquinho a cada dia</em>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1200&color=FF8DC7&center=true&vCenter=true&width=600&lines=%E2%9C%A7+programando+com+carinho+%E2%9C%A7;%E2%99%A1+um+commit+de+cada+vez+%E2%99%A1;%E2%8B%86+transformando+ideias+em+c%C3%B3digo+%E2%8B%86" alt="Typing SVG">
 
 <br><br>
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAi/cat-space.gif" width="130">
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="150">
+
+<br>
 
 </div>
 
@@ -27,43 +32,47 @@
 
 <div align="center">
 
-## ₊˚⊹♡ um pouquinho sobre mim ♡⊹˚₊
+## ₊˚⊹♡ sobre mim ♡⊹˚₊
 
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="55%" align="center">
 
-<img src="https://media.tenor.com/4F7D8qY7qYAAAAAi/cute-cat.gif" width="110">
+<img src="https://media.tenor.com/4F7D8qY7qYAAAAAi/cute-cat.gif" width="105">
 
 <br><br>
 
-🌸 **17 anos** <br>
+₊˚ʚ **17 anos** ɞ˚₊ <br>
+🌷 Apaixonada por animais <br>
 💻 Estudante de Desenvolvimento de Sistemas <br>
-🐾 Apaixonada por animais <br>
-🌷 Curiosa por tecnologia <br>
-✨ Sempre tentando aprender algo novo
+🌸 Explorando o mundo da programação <br>
+🐾 Sempre aprendendo algo novo <br>
+✨ Criando projetos para praticar
 
 <br><br>
 
 </td>
 
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<img src="https://media.tenor.com/8v9V8hNqW4AAAAAi/cat-cute.gif" width="170">
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="175">
 
 <br><br>
 
 ```text
-       ₊˚ ♡ ₊˚
-     .  /\_/\\  .
-    .  ( ˶•ᵕ•˶ ) .
-       /づ♡づ
-    ₊˚ ︶︶︶ ₊˚
+       ₊˚ ☁️ ₊˚
+    ☁️    ♡    ☁️
+
+       /\___/\
+      ( ˶•ᵕ•˶ )
+       / づ♡づ
+
+    ✦ coding in
+      pink clouds ✦
 ```
 
-<sub>um pouquinho de código, uma
-dose de criatividade e muitos gatinhos ♡</sub>
+<sub>código, criatividade e muitos gatinhos ♡</sub>
 
 </td>
 
@@ -78,23 +87,212 @@ dose de criatividade e muitos gatinhos ♡</sub>
 
 <div align="center">
 
-## 🌷 ₊˚ tecnologias que estou explorando ₊˚ 🌷
+## 🌸 ₊˚୨୧ tecnologias & ferramentas ୨୧˚₊ 🌸
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode&theme=light">
+<img src="https://skillicons.dev/icons?i=html,css,php,python,cpp,mysql,arduino,linux,git,github,vscode&theme=light">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=16&pause=1000&color=FF8DC7&center=true&vCenter=true&width=500&lines=%E2%99%A1+HTML+%26+CSS+%E2%86%92+criando+interfaces;%E2%9C%A7+Python+%E2%86%92+aprendendo+l%C3%B3gica;%E2%8B%86+Git+%26+GitHub+%E2%86%92+organizando+projetos" alt="Technologies">
+<table>
+<tr>
+
+<td align="center">
+🐍<br>
+<b>Python</b><br>
+<sub>Conhecimento</sub>
+</td>
+
+<td align="center">
+⚙️<br>
+<b>C++</b><br>
+<sub>Conhecimento</sub>
+</td>
+
+<td align="center">
+🌐<br>
+<b>HTML</b><br>
+<sub>Aprendendo</sub>
+</td>
+
+<td align="center">
+🎀<br>
+<b>CSS</b><br>
+<sub>Aprendendo</sub>
+</td>
+
+<td align="center">
+🐘<br>
+<b>PHP</b><br>
+<sub>Aprendendo</sub>
+</td>
+
+<td align="center">
+🗄️<br>
+<b>SQL</b><br>
+<sub>Aprendendo</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<sub>🌷 tecnologias que estou aprendendo, praticando e explorando 🌷</sub>
 
 </div>
 
 <br>
 
+---
+
 <div align="center">
 
-## ୨୧₊˚ meus projetos e progresso ˚₊୨୧
+## 🎀 ₊˚ʚ♡ɞ˚₊ aprendendo atualmente ₊˚ʚ♡ɞ˚₊ 🎀
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+🌐<br>
+<b>HTML</b><br>
+<sub>Estrutura</sub>
+</td>
+
+<td align="center">
+🎨<br>
+<b>CSS</b><br>
+<sub>Design</sub>
+</td>
+
+<td align="center">
+🐘<br>
+<b>PHP</b><br>
+<sub>Back-end</sub>
+</td>
+
+<td align="center">
+🗄️<br>
+<b>Banco de Dados</b><br>
+<sub>SQL</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+```text
+       ♡ MY PINK LEARNING CLOUD ♡
+
+       HTML       ████████░░
+       CSS        ██████░░░░
+       PHP        ████░░░░░░
+       SQL        ████░░░░░░
+
+       ✦ aprendendo... ✦
+```
+
+<br>
+
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="130">
+
+<br>
+
+<sub>🌸 aprendendo um pouco mais todos os dias 🌸</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🌷₊˚⊹♡ Maria's Pink Café ♡⊹˚₊🌷
+
+<br>
+
+```text
+╭────────────────────────────────────╮
+│                                    │
+│       🎀  WELCOME  🎀              │
+│                                    │
+│       🌸 HTML                      │
+│       🧁 CSS                       │
+│       🍰 PHP                       │
+│       ☕ SQL                       │
+│                                    │
+│       ────────────────             │
+│                                    │
+│       today's special:             │
+│       ✦ learning something new ✦  │
+│                                    │
+╰────────────────────────────────────╯
+```
+
+<br>
+
+🌸 **HTML** — criando a estrutura
+🎀 **CSS** — deixando tudo mais bonito
+🐘 **PHP** — explorando o back-end
+🗄️ **SQL** — organizando dados
+
+<br>
+
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="110">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 💗 ₊˚♡ minha jornada ♡˚₊ 💗
+
+<br>
+
+```text
+             🌸
+          🌸   🌸
+             ↓
+          aprender
+             ↓
+          praticar
+             ↓
+           criar
+             ↓
+          melhorar
+             ↓
+             ✦
+```
+
+<br>
+
+🌷 Explorando o mundo do desenvolvimento web
+☁️ Conhecendo novas tecnologias
+💻 Criando projetos para praticar
+🎀 Melhorando minha lógica de programação
+✨ Construindo uma base para projetos maiores
+
+<br>
+
+> 🌸 *Dream big, code bigger.* 🌸
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ୨୧₊˚♡ GitHub ♡˚₊୨୧
 
 <br>
 
@@ -112,39 +310,35 @@ dose de criatividade e muitos gatinhos ♡</sub>
 
 <div align="center">
 
-## ₊˚ʚ♡ɞ˚₊ onde estou focando ₊˚ʚ♡ɞ˚₊
+## 🌸 ₊˚୨୧ meus objetivos ୨୧˚₊ 🌸
+
+<br>
 
 <table>
 <tr>
 
 <td align="center">
-🌸<br>
-<b>Frontend</b><br>
-<sub>HTML • CSS</sub>
+🌐<br>
+<b>Web Development</b><br>
+<sub>Continuar aprendendo</sub>
 </td>
 
 <td align="center">
-🐍<br>
-<b>Python</b><br>
-<sub>lógica e prática</sub>
-</td>
-
-<td align="center">
-୨୧<br>
-<b>Backend</b><br>
-<sub>próximo passo</sub>
-</td>
-
-<td align="center">
-✦<br>
-<b>Git</b><br>
-<sub>versionamento</sub>
-</td>
-
-<td align="center">
-💗<br>
+💻<br>
 <b>Projetos</b><br>
-<sub>colocando em prática</sub>
+<sub>Criar mais</sub>
+</td>
+
+<td align="center">
+🗄️<br>
+<b>Databases</b><br>
+<sub>Me aprofundar</sub>
+</td>
+
+<td align="center">
+🚀<br>
+<b>Futuro</b><br>
+<sub>Continuar evoluindo</sub>
 </td>
 
 </tr>
@@ -152,11 +346,11 @@ dose de criatividade e muitos gatinhos ♡</sub>
 
 <br>
 
-<img src="https://media.tenor.com/1X7E4Qv4WZAAAAAi/cat-coding.gif" width="180">
+<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="120">
 
 <br>
 
-<sub>₊˚ tentando transformar cada aprendizado em alguma coisa nova ₊˚</sub>
+<sub>🎀 um passo de cada vez 🎀</sub>
 
 </div>
 
@@ -166,27 +360,38 @@ dose de criatividade e muitos gatinhos ♡</sub>
 
 <div align="center">
 
-## 𓆩♡𓆪 ˖˚ vamos conversar? ˚˖ 𓆩♡𓆪
+## 𓆩♡𓆪 ˖˚ contatos ˚˖ 𓆩♡𓆪
 
 <br>
 
-
-<a href="email:vitoria.c.o.ramoss@gmail.com">
+<a href="https://instagram.com/goncfermadu">
+<img src="https://img.shields.io/badge/Instagram-FFB6D9?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://github.com/vitoriaramozs">
+<a href="mailto:goncfermadu.senai@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFC4E1?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/goncfermadu">
+<img src="https://img.shields.io/badge/GitHub-FF8DC7?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://media.tenor.com/WHp4fK8G6NAAAAAi/cat-kiss.gif" width="100">
+<img src="https://media.tenor.com/WHp4fK8G6NAAAAAi/cat-kiss.gif" width="105">
 
-<br>
+<br><br>
+
+<p>
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp;
+<b>obrigada por visitar meu cantinho!</b>
+&nbsp; ૮₍ ˶ᵔ ᵕ ᔔ˶ ₎ა
+</p>
+
+<sub>♡ feito com código, flores, café e muitas estrelinhas ♡</sub>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=100&section=footer">
 
 </div>
-
----
-
-
