@@ -139,7 +139,7 @@
 
 <br>
 
-<sub>🌷 tecnologias que estou aprendendo, praticando e explorando 🌷</sub>
+<sub>🌷 <b>Dream, hope, forward</b> 🌷</sub>
 
 </div>
 
