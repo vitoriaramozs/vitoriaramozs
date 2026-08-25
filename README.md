@@ -149,7 +149,7 @@
 
 <div align="center">
 
-## 🎀 ₊˚ʚ♡ɞ˚₊ aprendendo atualmente ₊˚ʚ♡ɞ˚₊ 🎀
+## ʚ♡ɞ aprendendo ʚ♡ɞ
 
 <br>
 
@@ -194,7 +194,7 @@
 <br>
 
 
-## ୨୧₊˚♡ GitHub ♡˚₊୨୧
+## ♡ GitHub ♡
 
 <br>
 
@@ -212,7 +212,7 @@
 
 <div align="center">
 
-## ୨୧ meus objetivos ୨୧
+## ₊˚ meus objetivos ˚₊
 
 <br>
 
@@ -262,7 +262,7 @@
 
 <div align="center">
 
-## 𓆩♡𓆪 ˖˚ contatos ˚˖ 𓆩♡𓆪
+## 𓆩♡𓆪 contatos 𓆩♡𓆪
 
 <br>
 
