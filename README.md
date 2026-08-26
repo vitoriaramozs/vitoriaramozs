@@ -316,7 +316,7 @@
 <img src="https://img.shields.io/badge/Instagram-FFB6D9?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="vitoria.c.o.ramoss@gmail.com">
+<a href="mailto:vitoria.c.o.ramoss@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFC4E1?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
