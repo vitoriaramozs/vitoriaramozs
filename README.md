@@ -95,10 +95,6 @@
 
 </td>
 
-<td width="45%" align="center">
-
-<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="175">
-
 <br><br>
 
 
@@ -244,7 +240,7 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goncfermadu&hide_border=true&background=0D1117&ring=FF8DC7&fire=FFB6D9&currStreakLabel=FF8DC7&sideLabels=FFD6E8&dates=FFFFFF" width="60%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriaramozs&hide_border=true&background=0D1117&ring=FF8DC7&fire=FFB6D9&currStreakLabel=FF8DC7&sideLabels=FFD6E8&dates=FFFFFF" width="60%">
 
 <br><br>
 
