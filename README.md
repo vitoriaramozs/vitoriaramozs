@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="flores.jpg" width="100%" height="220px" style="object-fit: cover; display: block; border-radius: 15px;">
+<img src="flower.jpg" width="100%" height="220px" style="object-fit: cover; display: block; border-radius: 15px;">
 
 <br>
 
