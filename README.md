@@ -53,8 +53,11 @@
 ✨ Aprendendo com cada projeto, erro e novo desafio <br> >
 *"Ainda estou descobrindo onde posso chegar, > mas já estou aproveitando o caminho."* ♡ 
 </td> <td width="45%" align="center"> <img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="175"> <br><br> 
-₊˚ ☁️ ₊˚
-☁️ ♡ ☁️ 
+₊˚ ☁️ ₊˚  
+☁️ &nbsp;&nbsp; ♡ &nbsp;&nbsp; ☁️
+
+<br>
+
 ```text
    /\___/\
   ( ˶•ᵕ•˶ )
@@ -64,7 +67,7 @@
     learning...
     creating...
     dreaming...
-
+```
 <br>
 
 <br>
