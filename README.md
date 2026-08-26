@@ -236,19 +236,7 @@
 <br>
 
 
-## ♡ GitHub ♡
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriaramozs&hide_border=true&background=0D1117&ring=FF8DC7&fire=FFB6D9&currStreakLabel=FF8DC7&sideLabels=FFD6E8&dates=FFFFFF" width="60%">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriaramozs&bg_color=0D1117&color=FF8DC7&line=FF8DC7&point=FFFFFF&area=true&hide_border=true" width="95%">
-
 </div>
-
-<br>
 
 ---
 
