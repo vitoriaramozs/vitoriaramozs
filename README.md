@@ -45,7 +45,20 @@
 
 <br>
 
-₊˚ʚ **Vitória, 16 anos** ɞ˚₊ <br><br> 🌸 Estudante de **Desenvolvimento de Sistemas** <br> 💻 Transformando curiosidade em código <br> 🎀 Fã de música, criatividade e pequenas coisas que fazem o dia melhor <br> 🌷 Explorando **HTML, CSS, Python, PHP e bancos de dados** <br> ✨ Aprendendo com cada projeto, erro e novo desafio <br> > *"Ainda estou descobrindo onde posso chegar, > mas já estou aproveitando o caminho."* ♡ </td> <td width="45%" align="center"> <img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="175"> <br><br> ₊˚ ☁️ ₊˚ ☁️ ♡ ☁️ /\___/\ ( ˶•ᵕ•˶ ) / づ♡づ ✦ currently ✦
+₊˚ʚ **Vitória, 16 anos** ɞ˚₊ <br><br> 
+🌸 Estudante de **Desenvolvimento de Sistemas** <br> 
+💻 Transformando curiosidade em código <br> 
+🎀 Fã de música, criatividade e pequenas coisas que fazem o dia melhor <br> 
+🌷 Explorando **HTML, CSS, Python, PHP e bancos de dados** <br> 
+✨ Aprendendo com cada projeto, erro e novo desafio <br> >
+*"Ainda estou descobrindo onde posso chegar, > mas já estou aproveitando o caminho."* ♡ 
+</td> <td width="45%" align="center"> <img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="175"> <br><br> 
+₊˚ ☁️ ₊˚
+☁️ ♡ ☁️ 
+ /\___/\ 
+( ˶•ᵕ•˶ ) 
+ / づ♡づ 
+✦ currently ✦
 
     learning...
     creating...
