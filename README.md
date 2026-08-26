@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=700&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Olá%2C+sou+a+Vitória!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Bem-vindo!+%E2%99%A1;%F0%9F%92%BB+Estudante+de+Desenvolvimento+de+Sistemas;" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=700&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Ol%C3%A1%2C+sou+a+Vit%C3%B3ria!+%E2%8B%86%E2%82%8A%E2%9C%A7;%E2%99%A1+Bem-vindo!+%E2%99%A1;%F0%9F%92%BB+Estudante+de+Desenvolvimento+de+Sistemas;" alt="Typing SVG">
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <p>
   <em>Estudante de Desenvolvimento de Sistemas</em><br>
-  <em>Apaixonada por tecnologia</em><br> 
+  <em>Apaixonada por tecnologia</em><br>
   <em>Aprendendo cada vez mais</em>
 </p>
 
@@ -31,10 +31,11 @@
 ---
 
 <div align="center">
-  
+
 ## ♡ sobre mim ♡
 
 <br><br>
+
 <table>
 <tr>
 
@@ -44,7 +45,9 @@
 
 <br>
 
-₊˚ʚ **Vitória, 16 anos** ɞ˚₊ <br><br>
+₊˚ʚ **Vitória, 16 anos** ɞ˚₊
+
+<br><br>
 
 🌸 Estudante de **Desenvolvimento de Sistemas** <br>
 💻 Transformando curiosidade em código <br>
@@ -65,12 +68,15 @@
 
 <br><br>
 
-       ₊˚ ☁️ ₊˚
-    ☁️    ♡    ☁️
+₊˚ ☁️ ₊˚  
+☁️ &nbsp;&nbsp; ♡ &nbsp;&nbsp; ☁️
 
-       /\___/\
-      ( ˶•ᵕ•˶ )
-       / づ♡づ
+<br>
+
+```text
+   /\___/\
+  ( ˶•ᵕ•˶ )
+   / づ♡づ
 
     ✦ currently ✦
 
