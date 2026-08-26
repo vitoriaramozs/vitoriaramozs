@@ -248,7 +248,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goncfermadu&bg_color=0D1117&color=FF8DC7&line=FF8DC7&point=FFFFFF&area=true&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriaramozs&bg_color=0D1117&color=FF8DC7&line=FF8DC7&point=FFFFFF&area=true&hide_border=true" width="95%">
 
 </div>
 
@@ -291,10 +291,6 @@
 
 </tr>
 </table>
-
-<br>
-
-<img src="https://media.tenor.com/7K3kY4H0gZAAAAAi/cinnamoroll-sanrio.gif" width="120">
 
 <br>
 
